@@ -29,7 +29,7 @@ import ReactDOM from "react-dom/client";
 //JSX Its a compiler for JavaScript
 
 const heading = (
-  <h1 id="title" key={h1}>This is JSX</h1> 
+  <h1 id="title" key={h1}>This is JSX - Javascript xml</h1> 
   //JSX => React createElement => Object => HTML(DOM)
 )
 
